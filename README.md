@@ -1,4 +1,4 @@
-# DOCUMENTATION
+# PA2
 
 ## Normalization
 • Create a random 5x5 ndarray and store it to variable X. Normalize X.
